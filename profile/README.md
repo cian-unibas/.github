@@ -2,7 +2,6 @@
 This is the official github organization of the 
 [Center for medical Image Analysis & Navigation](https://dbe.unibas.ch/en/cian/) of the University of Basel.
 
-## Publications
 ### 2023
 * *Point Cloud Diffusion Models for Automatic Implant Generation* (Friedrich et al., MICCAI 2023)  
 [[Project page](https://pfriedri.github.io/pcdiff-implant-io/)]
@@ -27,19 +26,19 @@ This is the official github organization of the
 [[ArXiv](https://arxiv.org/abs/2301.13674)]
 [[Code](https://gitlab.com/cian.unibas.ch/sneakynet)]
 
-* *Augmented reality for sentinel lymph node biopsy* (von Niederhäusern et al., CARS 2023)  
+* *Augmented Reality for Sentinel Lymph Node Biopsy* (von Niederhäusern et al., CARS 2023)  
 [[Paper](https://link.springer.com/article/10.1007/s11548-023-03014-w)]
 
-* *Automatic patient positioning based on robot rotational workspace for extended reality* (Zelechowski et al., CARS 2023)  
+* *Automatic Patient Positioning Based on Robot Rotational Workspace for Extended Reality* (Zelechowski et al., CARS 2023)  
 [[Paper](https://link.springer.com/article/10.1007/s11548-023-02967-2)]
 
-* *Shape sensing of optical fiber Bragg gratings based on deep learning* (Manavi Roodsari et al., MLST 2023)  
+* *Shape Sensing of Optical Fiber Bragg Gratings Based on Deep Learning* (Manavi Roodsari et al., MLST 2023)  
 [[Paper](https://iopscience.iop.org/article/10.1088/2632-2153/acda10/meta)]
 
-* *Development and validation of a predictive model of the hospital cost associated with bariatric surgery* (Ochs et al., ORCP 2023)  
+* *Development and Validation of a Predictive Model of the Hospital Cost Associated with Bariatric Surgery* (Ochs et al., ORCP 2023)  
 [[Paper](https://www.sciencedirect.com/science/article/pii/S1871403X23001163)]
 
-* *Analysis of retinal blood flow dynamics with time-resolved structural optical coherence tomography* (Valmaggia et al., IOVS 2023)
+* *Analysis of Retinal Blood Flow Dynamics with Time-Resolved Structural Optical Coherence Tomography* (Valmaggia et al., IOVS 2023)  
 [[Paper](https://iovs.arvojournals.org/article.aspx?articleid=2789534)]
 
 ### 2022
@@ -73,8 +72,36 @@ This is the official github organization of the
 * *Bone Ablation Depth Estimation From Er:YAG Laser-Generated Acoustic Waves* (Seppi et al., IEEE Access 2022)  
 [[Paper](https://ieeexplore.ieee.org/abstract/document/9966604)]
 
+* *Fabrication and Characterization of a Flexible FBG-Based Shape Sensor Using Single-Mode Fibers* (Manavi Roodsari et al., IEEE. Trans. Biomed. Eng. 2022)  
+[[Paper](https://ieeexplore.ieee.org/abstract/document/9699043)]
+
+* *The Secret Role of Undesired Physical Effects in Accurate Shape Sensing with Eccentric FBGs* (Manavi Roodsari et al., 2022)  
+[[ArXiv](https://arxiv.org/abs/2210.16316)]
+
+* *Using Supervised Deep-Learning to Model Edge-FBG Shape Sensors* (Manavi Roodsari et al., 2022)  
+[[ArXiv](https://arxiv.org/abs/2210.16068)]
+
 * *The Swiss Army Knife for Image-to-Image Translation: Multi-Task Diffusion Models* (Wolleb et al., 2022)  
 [[ArXiv](https://arxiv.org/abs/2204.02641)]
+
+* *Ensemble Uncertainty as a Criterion for Dataset Expansion in Distinct Bone Segmentation from Upper-Body CT Images* (Schnider et al., 2022)  
+[[ArXiv](https://arxiv.org/abs/2208.09216)]
+
+### 2021
+* *Transfer-Function-Independent Acceleration Structure for Volume Rendering in Virtual Reality* (Faludi et al., HPG 2021)  
+[[Paper](https://dl.acm.org/doi/abs/10.2312/hpg.20211279)]
+
+* *Volume Rendering-Based Patient Registration for Extended Reality* (Zelechowski et al., MESROB 2021)  
+[[Paper](https://link.springer.com/chapter/10.1007/978-3-030-76147-9_13)]
+  
+* *Deep-Learning Approach for Tissue Classification Using Acoustic Waves During Ablation With an Er:YAG Laser* (Seppi et al., IEEE Access 2021)  
+[[Paper](https://ieeexplore.ieee.org/abstract/document/9540681)]
+
+* *Using Supervised Deep-Learning to Model Edge-FBG Shape Sensors: A Feasibility Study* (Manavi Roodsari et al., SPIE Optics + Optoelectronics 2021)  
+[[Paper](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11772/117720P/Using-supervised-deep-learning-to-model-edge-FBG-shape-sensors/10.1117/12.2589252.short?SSO=1)]
+
+* *Comparison of Methods Generalizing Max- and Average-Pooling* (Bieder et al., 2021)  
+[[ArXiv](https://arxiv.org/abs/2103.01746)]
 
 ### 2020
 * *DeScarGAN: Disease-Specific Anomaly Detection with Weak Supervision* (Wolleb et al., MICCAI 2020)  
