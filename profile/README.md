@@ -2,6 +2,33 @@
 This is the official github organization of the 
 [Center for medical Image Analysis & Navigation](https://dbe.unibas.ch/en/cian/) of the University of Basel.
 
+### 2024
+* *Binary Noise for Binary Tasks: Masked Bernoulli Diffusion for Unsupervised Anomaly Detection* (Wolleb et al., 2024)  
+[[ArXiv](https://arxiv.org/abs/2403.11667)]
+[[Code](https://github.com/JuliaWolleb/Anomaly_berdiff)]
+
+* *WDM: 3D Wavelet Diffusion Models for High-Resolution Medical Image Synthesis* (Friedrich et al., 2024)  
+[[Project page](https://pfriedri.github.io/wdm-3d-io/)]
+[[ArXiv](https://arxiv.org/abs/2402.19043)]
+[[Code](https://github.com/pfriedri/wdm-3d)]
+[[Models](https://huggingface.co/pfriedri/wdm-3d)]
+
+* *Denoising Diffusion Models for Inpainting of Healthy Brain Tissue* (Durrer et al., 2024)  
+[[ArXiv](https://arxiv.org/abs/2402.17307)]
+
+* *Modeling the Healthy Fetal- and Neonatal Brain Development using Implicit Neural Representations* (Bieder et al., 2024)  
+[[OpenReview](https://openreview.net/forum?id=fZNlO0Zpg1)]
+[[Code](https://github.com/FlorentinBieder/Fetal-Development-INR)]
+
+* *An Analysis of Virtual Reality in Abdominal Surgery - A Scoping Review* (Ochs et al., Int. J. Med. Robot. Comput. Assist. Surg 2024)  
+[[Paper](https://doi.org/10.1002/rcs.2623)]
+
+* *Deep Learning-Based Approach for High Spatial Resolution Fibre Shape Sensing* (Manavi Roodsari et al., Comms. Eng. 2024)  
+[[Paper](https://doi.org/10.1038/s44172-024-00166-8)]
+
+* *Augmented Reality for Sentinel Lymph Node Biopsy* (von Niederhäusern et al., IJCARS 2024)  
+[[Paper](https://doi.org/10.1007/s11548-023-03014-w)]
+
 ### 2023
 * *Point Cloud Diffusion Models for Automatic Implant Generation* (Friedrich et al., MICCAI 2023)  
 [[Project page](https://pfriedri.github.io/pcdiff-implant-io/)]
