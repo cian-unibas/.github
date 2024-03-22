@@ -3,6 +3,10 @@ This is the official github organization of the
 [Center for medical Image Analysis & Navigation](https://dbe.unibas.ch/en/cian/) of the University of Basel.
 
 ### 2024
+* *Denoising Diffusion Models for 3D Healthy Brain Tissue Inpainting* (Durrer et al., 2024)  
+[[ArXiv](https://arxiv.org/abs/2403.14499)]
+[[Code](https://github.com/AliciaDurrer/DM_Inpainting)]
+
 * *Binary Noise for Binary Tasks: Masked Bernoulli Diffusion for Unsupervised Anomaly Detection* (Wolleb et al., 2024)  
 [[ArXiv](https://arxiv.org/abs/2403.11667)]
 [[Code](https://github.com/JuliaWolleb/Anomaly_berdiff)]
