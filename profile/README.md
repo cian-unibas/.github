@@ -3,15 +3,21 @@ This is the official github organization of the
 [Center for medical Image Analysis & Navigation](https://dbe.unibas.ch/en/cian/) of the University of Basel.
 
 ### 2024
-* *Denoising Diffusion Models for 3D Healthy Brain Tissue Inpainting* (Durrer et al., 2024)  
+* *Development of predictive model for predicting postoperative BMI and optimize bariatric surgery: a single center pilot study* (Ochs et al., SOARD 2023)  
+[[Paper](https://www.sciencedirect.com/science/article/pii/S1550728924006804)]
+
+* *Time-resolved dynamic optical coherence tomography for retinal blood flow analysis* (Valmaggia et al., IOVS 2024)  
+[[Paper](https://iovs.arvojournals.org/article.aspx?articleid=2793725)]
+
+* *Denoising Diffusion Models for 3D Healthy Brain Tissue Inpainting* (Durrer et al., DGM4MICCAI 2024)  
 [[ArXiv](https://arxiv.org/abs/2403.14499)]
 [[Code](https://github.com/AliciaDurrer/DM_Inpainting)]
 
-* *Binary Noise for Binary Tasks: Masked Bernoulli Diffusion for Unsupervised Anomaly Detection* (Wolleb et al., 2024)  
+* *Binary Noise for Binary Tasks: Masked Bernoulli Diffusion for Unsupervised Anomaly Detection* (Wolleb et al., MICCAI 2024)  
 [[ArXiv](https://arxiv.org/abs/2403.11667)]
 [[Code](https://github.com/JuliaWolleb/Anomaly_berdiff)]
 
-* *WDM: 3D Wavelet Diffusion Models for High-Resolution Medical Image Synthesis* (Friedrich et al., 2024)  
+* *WDM: 3D Wavelet Diffusion Models for High-Resolution Medical Image Synthesis* (Friedrich et al., DGM4MICCAI 2024)  
 [[Project page](https://pfriedri.github.io/wdm-3d-io/)]
 [[ArXiv](https://arxiv.org/abs/2402.19043)]
 [[Code](https://github.com/pfriedri/wdm-3d)]
@@ -20,9 +26,7 @@ This is the official github organization of the
 * *Denoising Diffusion Models for Inpainting of Healthy Brain Tissue* (Durrer et al., 2024)  
 [[ArXiv](https://arxiv.org/abs/2402.17307)]
 
-* *Modeling the Healthy Fetal- and Neonatal Brain Development using Implicit Neural Representations* (Bieder et al., 2024)  
-[[OpenReview](https://openreview.net/forum?id=fZNlO0Zpg1)]
-[[Code](https://github.com/FlorentinBieder/Fetal-Development-INR)]
+* *Modeling the Neonatal Brain Development Using Implicit Neural Representations* (Bieder et al., PRIME @ MICCAI 2024)  
 
 * *An Analysis of Virtual Reality in Abdominal Surgery - A Scoping Review* (Ochs et al., Int. J. Med. Robot. Comput. Assist. Surg 2024)  
 [[Paper](https://doi.org/10.1002/rcs.2623)]
