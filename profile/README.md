@@ -27,6 +27,9 @@ This is the official github organization of the
 [[ArXiv](https://arxiv.org/abs/2402.17307)]
 
 * *Modeling the Neonatal Brain Development Using Implicit Neural Representations* (Bieder et al., PRIME @ MICCAI 2024)  
+[[Project page](https://florentinbieder.github.io/Neonatal-Development-INR/)]
+[[ArXiv](https://arxiv.org/abs/2408.08647)]
+[[Code](https://github.com/FlorentinBieder/Neonatal-Development-INR)]
 
 * *An Analysis of Virtual Reality in Abdominal Surgery - A Scoping Review* (Ochs et al., Int. J. Med. Robot. Comput. Assist. Surg 2024)  
 [[Paper](https://doi.org/10.1002/rcs.2623)]
