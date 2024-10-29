@@ -3,7 +3,10 @@ This is the official github organization of the
 [Center for medical Image Analysis & Navigation](https://dbe.unibas.ch/en/cian/) of the University of Basel.
 
 ### 2024
-* *Development of predictive model for predicting postoperative BMI and optimize bariatric surgery: a single center pilot study* (Ochs et al., SOARD 2023)  
+* *Deep Generative Models for 3D Medical Image Synthesis* (Friedrich et al., arXiv 2024)  
+[[arXiv](https://arxiv.org/abs/2410.17664)]
+
+* *Development of predictive model for predicting postoperative BMI and optimize bariatric surgery: a single center pilot study* (Ochs et al., SOARD 2024)  
 [[Paper](https://www.sciencedirect.com/science/article/pii/S1550728924006804)]
 
 * *Time-resolved dynamic optical coherence tomography for retinal blood flow analysis* (Valmaggia et al., IOVS 2024)  
