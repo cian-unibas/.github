@@ -3,6 +3,11 @@ This is the official github organization of the
 [Center for medical Image Analysis & Navigation](https://dbe.unibas.ch/en/cian/) of the University of Basel.
 
 ### 2024
+* *cWDM: Conditional Wavelet Diffusion Models for Cross-Modality 3D Medical Image Synthesis* (Friedrich et al., BraTS 2024)   
+[[arXiv](https://arxiv.org/abs/2411.17203)]
+[[Code](https://github.com/pfriedri/cwdm)]
+[[Models](https://huggingface.co/pfriedri/cwdm)]
+
 * *Deep Generative Models for 3D Medical Image Synthesis* (Friedrich et al., arXiv 2024)  
 [[arXiv](https://arxiv.org/abs/2410.17664)]
 
