@@ -3,6 +3,16 @@ This is the official github organization of the
 [Center for medical Image Analysis & Navigation](https://dbe.unibas.ch/en/cian/) of the University of Basel.
 
 ### 2025
+* *MedFuncta: Modality-Agnostic Representations Based on Efficient Neural Fields* (Friedrich et al., 2025)  
+[[Project page](https://pfriedri.github.io/medfuncta-io/)]
+[[ArXiv](https://arxiv.org/abs/2502.14401)]
+[[Code](https://github.com/pfriedri/medfuncta/)]
+
+* *Deep Generative Models for 3D Medical Image Synthesis* (Friedrich et al., Generative Machine Learning Models in Medical Image Computing 2025)  
+[[Chapter](https://link.springer.com/chapter/10.1007/978-3-031-80965-1_13)]
+[[Book](https://link.springer.com/chapter/10.1007/978-3-031-80965-1)]
+[[ArXiv](https://arxiv.org/abs/2410.17664)]
+
 * *Generating 3D Pseudo-Healthy Knee MR Images to Support Trochleoplasty Planning* (Wehrli et al., IPCAI 2025)  
 [[Project page](https://wehrlimi.github.io/gen3d-ph-kneemri/)]
 [[ArXiv](https://arxiv.org/abs/2412.09962)]
@@ -13,9 +23,6 @@ This is the official github organization of the
 [[ArXiv](https://arxiv.org/abs/2411.17203)]
 [[Code](https://github.com/pfriedri/cwdm)]
 [[Models](https://huggingface.co/pfriedri/cwdm)]
-
-* *Deep Generative Models for 3D Medical Image Synthesis* (Friedrich et al., arXiv 2024)  
-[[ArXiv](https://arxiv.org/abs/2410.17664)]
 
 * *Development of predictive model for predicting postoperative BMI and optimize bariatric surgery: a single center pilot study* (Ochs et al., SOARD 2024)  
 [[Paper](https://www.sciencedirect.com/science/article/pii/S1550728924006804)]
