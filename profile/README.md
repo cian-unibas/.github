@@ -3,6 +3,22 @@ This is the official github organization of the
 [Center for medical Image Analysis & Navigation](https://dbe.unibas.ch/en/cian/) of the University of Basel.
 
 ### 2025
+* *Miniaturized optical absolute rotary encoder: A proof of concept* (Filipozzi et al., Sens. Actuator A-Phys. 2025)  
+[[Paper](https://www.sciencedirect.com/science/article/pii/S0924424725006855)]
+
+* *cIDIR: Conditioned Implicit Neural Representation for Regularized Deformable Image Registration* (Hadramy et al., 2025)  
+[[ArXiv](https://arxiv.org/abs/2507.12953)]
+
+* *fastWDM3D: Fast and Accurate 3D Healthy Tissue Inpainting* (Durrer et al., DGM4MICCAI 2025)  
+[[ArXiv](https://arxiv.org/abs/2507.13146)]
+[[Code](https://github.com/AliciaDurrer/fastWDM3D)]
+
+* *Multi-volume rendering using depth buffers for surgical planning in virtual reality* (Faludi et al., IJCARS 2025)  
+[[Paper](https://www.sciencedirect.com/science/article/pii/S0924424725006855)]
+
+* *A Comparative Study of CT Perfusion Postprocessing Tools in Medium/Distal Vessel Occlusion Stroke* (Corbaz et al., AJNR 2025)  
+[[Paper](https://www.ajnr.org/content/46/5/900.abstract)]
+
 * *MedFuncta: Modality-Agnostic Representations Based on Efficient Neural Fields* (Friedrich et al., 2025)  
 [[Project page](https://pfriedri.github.io/medfuncta-io/)]
 [[ArXiv](https://arxiv.org/abs/2502.14401)]
@@ -13,7 +29,8 @@ This is the official github organization of the
 [[Book](https://link.springer.com/chapter/10.1007/978-3-031-80965-1)]
 [[ArXiv](https://arxiv.org/abs/2410.17664)]
 
-* *Generating 3D Pseudo-Healthy Knee MR Images to Support Trochleoplasty Planning* (Wehrli et al., IPCAI 2025)  
+* *Generating 3D Pseudo-Healthy Knee MR Images to Support Trochleoplasty Planning* (Wehrli et al., IPCAI/IJCARS 2025)  
+[[Paper](https://link.springer.com/article/10.1007/s11548-025-03343-y)]
 [[Project page](https://wehrlimi.github.io/gen3d-ph-kneemri/)]
 [[ArXiv](https://arxiv.org/abs/2412.09962)]
 [[Code](https://github.com/wehrlimi/Generate-Pseudo-Healthy-Knee-MRI)]
